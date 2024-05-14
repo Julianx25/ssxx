@@ -3,7 +3,6 @@
  */
 
 package com.mycompany.grgr;
-sssssass
 /**
  *
  * @author SENA
@@ -13,4 +12,4 @@ public class Grgr {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
-}
+}ggdngndgngngdngngsndga
